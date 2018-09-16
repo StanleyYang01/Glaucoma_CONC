@@ -1,0 +1,6 @@
+Pathway	N	Up	Down	P.Up	P.Down
+Neuroactive ligand-receptor interaction	154	2	0	0.00314816060374748	1
+Nicotine addiction	37	1	0	0.0207058054121314	1
+HTLV-I infection	214	0	2	1	0.0266028978911233
+Bladder cancer	36	0	1	1	0.0423494316361667
+Thyroid cancer	36	0	1	1	0.0423494316361667

@@ -1,0 +1,4 @@
+Pathway	N	Up	Down	P.Up	P.Down
+Amyotrophic lateral sclerosis (ALS)	46	0	2	1	0.001202039231822
+Glycine, serine and threonine metabolism	33	1	0	0.0298703320182762	1
+Taste transduction	39	0	1	1	0.0431646199079745

@@ -1,0 +1,6 @@
+Pathway	N	Up	Down	P.Up	P.Down
+Taste transduction	39	0	1	1	0.0136888072005074
+Glycosaminoglycan biosynthesis - heparan sulfat...	23	1	0	0.0240859613201911	1
+Serotonergic synapse	89	0	1	1	0.0310188364801876
+Nicotine addiction	37	1	0	0.0384807242938265	1
+Hematopoietic cell lineage	46	1	0	0.0476295919756942	1

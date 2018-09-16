@@ -1,0 +1,21 @@
+Pathway	N	Up	Down	P.Up	P.Down
+Neuroactive ligand-receptor interaction	154	4	0	5.67767022046052e-05	1
+Jak-STAT signaling pathway	95	0	4	1	0.000431848597558103
+Hematopoietic cell lineage	46	0	3	1	0.000669610524332861
+Phagosome	114	0	4	1	0.000859029283752729
+Cytokine-cytokine receptor interaction	118	0	4	1	0.00097707243575502
+MicroRNAs in cancer	125	0	4	1	0.00121042199000998
+Nicotine addiction	37	2	1	0.00122388633309159	0.129630126060454
+Gap junction	79	0	3	1	0.00319818151527032
+Epstein-Barr virus infection	173	0	4	1	0.0039457185065988
+Necroptosis	109	0	3	1	0.00784851659368258
+Signaling pathways regulating pluripotency of s...	109	0	3	1	0.00784851659368258
+Adipocytokine signaling pathway	59	0	2	1	0.0205031115246728
+cAMP signaling pathway	159	2	0	0.0208271185358509	1
+Non-small cell lung cancer	65	0	2	1	0.02457347963347
+Hypertrophic cardiomyopathy (HCM)	67	0	2	1	0.0259979296082379
+Proteoglycans in cancer	171	0	3	1	0.0260488688889939
+ECM-receptor interaction	68	0	2	1	0.0267225254588076
+Th17 cell differentiation	71	0	2	1	0.0289449690922211
+Dilated cardiomyopathy (DCM)	72	0	2	1	0.0297017747400606
+TNF signaling pathway	84	0	2	1	0.0393793574843833

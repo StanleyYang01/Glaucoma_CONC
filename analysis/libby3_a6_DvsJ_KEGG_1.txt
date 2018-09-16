@@ -1,0 +1,5 @@
+Pathway	N	Up	Down	P.Up	P.Down
+Neuroactive ligand-receptor interaction	154	0	3	1	0.000257774791003566
+SNARE interactions in vesicular transport	31	0	1	1	0.0259508173947727
+Nicotine addiction	37	1	1	0.0875540034208098	0.0309016765247079
+Taste transduction	39	0	1	1	0.0325468298827782

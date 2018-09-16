@@ -1,0 +1,4 @@
+Term	Ont	N	Up	Down	P.Up	P.Down
+multicellular organismal process	BP	4730	109	103	2.37755267314751e-10	1.24355058191206e-06
+system development	BP	3331	85	80	9.87995926617716e-10	1.08972208130402e-06
+multicellular organism development	BP	3724	91	84	1.59951571326887e-09	7.08924735672061e-06

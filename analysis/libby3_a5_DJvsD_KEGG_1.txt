@@ -1,0 +1,7 @@
+Pathway	N	Up	Down	P.Up	P.Down
+Neuroactive ligand-receptor interaction	154	3	0	0.000520502032586469	1
+MicroRNAs in cancer	125	0	2	1	0.0285915309378283
+Oxytocin signaling pathway	133	0	2	1	0.0320492772753338
+Nicotine addiction	37	1	1	0.0384807242938265	0.0755191982612201
+Taste transduction	39	1	0	0.0405208664666996	1
+Glycosaminoglycan biosynthesis - heparan sulfat...	23	0	1	1	0.047616429369311

@@ -1,0 +1,20 @@
+Pathway	N	Up	Down	P.Up	P.Down
+TNF signaling pathway	84	0	3	1	0.00182132156623229
+Jak-STAT signaling pathway	95	0	3	1	0.00258819395600737
+IL-17 signaling pathway	53	0	2	1	0.0102551346816362
+Salmonella infection	58	0	2	1	0.0121902984088159
+Focal adhesion	176	0	3	1	0.0142136914897414
+Colorectal cancer	82	0	2	1	0.0234476131779081
+ErbB signaling pathway	82	0	2	1	0.0234476131779081
+HTLV-I infection	214	0	3	1	0.023771380636239
+Small cell lung cancer	85	0	2	1	0.0250691757506828
+Arginine and proline metabolism	38	1	0	0.0265060648700978	1
+Pyrimidine metabolism	89	0	2	1	0.0273006334050548
+Renin-angiotensin system	12	0	1	1	0.0341894227818631
+MAPK signaling pathway	254	0	3	1	0.0368139132904221
+Signaling pathways regulating pluripotency of s...	109	0	2	1	0.0395801637386413
+Lysosome	113	0	2	1	0.0422470668011333
+Hepatitis B	115	0	2	1	0.0436053811204539
+Apoptosis	116	0	2	1	0.0442906551502863
+Wnt signaling pathway	118	0	2	1	0.0456732971358796
+Breast cancer	119	0	2	1	0.0463706095277204

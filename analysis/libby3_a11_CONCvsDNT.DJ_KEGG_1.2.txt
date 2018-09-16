@@ -1,0 +1,16 @@
+Pathway	N	Up	Down	P.Up	P.Down
+Glycine, serine and threonine metabolism	33	2	0	0.00265481596882058	1
+Ferroptosis	37	2	0	0.00332927386662941	1
+Gap junction	79	0	3	1	0.00393147115411237
+Biosynthesis of amino acids	58	2	0	0.00801517549149652	1
+Taste transduction	39	0	2	1	0.0107101663943772
+Phagosome	114	0	3	1	0.0108293663028665
+Vitamin B6 metabolism	5	1	0	0.0115926520998859	1
+Amyotrophic lateral sclerosis (ALS)	46	0	2	1	0.0146935628754572
+Carbon metabolism	98	2	0	0.0217521960476604	1
+Neuroactive ligand-receptor interaction	154	0	3	1	0.0240253527456327
+Apelin signaling pathway	115	2	0	0.0292739143389008	1
+Fluid shear stress and atherosclerosis	117	2	1	0.0302185334249088	0.377224920604665
+MicroRNAs in cancer	125	2	0	0.0341169738345278	1
+Proximal tubule bicarbonate reclamation	16	1	0	0.0366396081567688	1
+Serotonergic synapse	89	0	2	1	0.0498326421313393

@@ -1,0 +1,11 @@
+Pathway	N	Up	Down	P.Up	P.Down
+Neuroactive ligand-receptor interaction	154	2	0	0.00114873445425088	1
+Nicotine addiction	37	1	0	0.0129904843718862	1
+Hematopoietic cell lineage	46	0	1	1	0.0320050454477957
+Pertussis	49	0	1	1	0.0340599448979423
+Cholinergic synapse	103	1	0	0.0358273256459012	1
+Arrhythmogenic right ventricular cardiomyopathy...	61	0	1	1	0.0422403410035486
+Hypertrophic cardiomyopathy (HCM)	67	0	1	1	0.0463071111999674
+ECM-receptor interaction	68	0	1	1	0.0469833932087605
+Bacterial invasion of epithelial cells	69	0	1	1	0.0476592435787992
+Dilated cardiomyopathy (DCM)	72	0	1	1	0.0496842073047929

@@ -1,0 +1,8 @@
+Pathway	N	Up	Down	P.Up	P.Down
+Pyrimidine metabolism	89	0	2	1	0.00622365355650172
+Lysosome	113	0	2	1	0.00986660629095174
+Non-alcoholic fatty liver disease (NAFLD)	132	0	2	1	0.0132785871442082
+Renin-angiotensin system	12	0	1	1	0.0159794755206398
+Purine metabolism	152	0	2	1	0.0173469848120251
+Arginine and proline metabolism	38	1	0	0.0265060648700978	1
+Endocrine and other factor-regulated calcium re...	38	0	1	1	0.0497757293846798

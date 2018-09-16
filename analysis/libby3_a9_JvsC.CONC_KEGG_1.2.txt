@@ -1,0 +1,21 @@
+Pathway	N	Up	Down	P.Up	P.Down
+Neuroactive ligand-receptor interaction	154	4	0	1.23422831789503e-05	1
+Jak-STAT signaling pathway	95	0	6	1	4.41932045878012e-05
+Proteoglycans in cancer	171	0	7	1	0.000159487972412952
+Epstein-Barr virus infection	173	0	7	1	0.000171375251845523
+Signaling pathways regulating pluripotency of s...	109	0	5	1	0.00086167196230354
+Inflammatory bowel disease (IBD)	28	0	3	1	0.000873229456622099
+Cytokine-cytokine receptor interaction	118	0	5	1	0.00123025951846319
+Th17 cell differentiation	71	0	4	1	0.00135888536049305
+MicroRNAs in cancer	125	0	5	1	0.00158902584124743
+MAPK signaling pathway	255	0	7	1	0.00172133210297839
+PI3K-Akt signaling pathway	269	0	7	1	0.0023284031511773
+Hematopoietic cell lineage	46	0	3	1	0.00370539724499386
+Pertussis	49	0	3	1	0.00443196503398404
+Necroptosis	109	0	4	1	0.00640184139824378
+Salmonella infection	58	0	3	1	0.00710451482298052
+Acute myeloid leukemia	59	0	3	1	0.00744883803020259
+Phagosome	114	0	4	1	0.00748496930482542
+Hepatitis B	115	0	4	1	0.00771518495350221
+cAMP signaling pathway	159	2	1	0.0104229379982623	0.662786995912238
+Chagas disease (American trypanosomiasis)	74	0	3	1	0.0138117934952159

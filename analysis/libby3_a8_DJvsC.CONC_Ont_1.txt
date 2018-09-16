@@ -1,0 +1,6 @@
+Term	Ont	N	Up	Down	P.Up	P.Down
+regulation of developmental process	BP	1898	106	127	9.63648535508964e-06	6.64733170254667e-08
+regulation of multicellular organismal process	BP	2116	120	130	9.27860905398256e-07	5.06608089666364e-06
+regulation of multicellular organismal development	BP	1477	88	98	5.55080793646984e-06	4.27383251884157e-06
+plasma membrane	CC	3175	206	188	1.89100902659253e-18	2.01209760377644e-07
+cell periphery	CC	3272	208	194	1.29506534949346e-17	1.01890820594994e-07

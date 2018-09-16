@@ -1,0 +1,5 @@
+Pathway	N	Up	Down	P.Up	P.Down
+HTLV-I infection	214	0	2	1	0.0135639101219709
+Apoptosis - multiple species	29	0	1	1	0.0242953858757987
+Amyotrophic lateral sclerosis (ALS)	46	0	1	1	0.0382847267877212
+Adipocytokine signaling pathway	59	0	1	1	0.0488581345345958

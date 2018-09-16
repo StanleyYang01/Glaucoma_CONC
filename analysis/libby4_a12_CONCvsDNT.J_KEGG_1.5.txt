@@ -1,0 +1,6 @@
+Pathway	N	Up	Down	P.Up	P.Down
+Retinol metabolism	22	0	1	1	0.0366357909177121
+Glycine, serine and threonine metabolism	33	1	0	0.045594097993216	1
+Metabolism of xenobiotics by cytochrome P450	29	0	1	1	0.0480203811170692
+Bladder cancer	36	1	0	0.0496396139194494	1
+Thyroid cancer	36	1	0	0.0496396139194494	1

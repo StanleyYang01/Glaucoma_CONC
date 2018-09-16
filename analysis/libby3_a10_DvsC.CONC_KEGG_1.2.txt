@@ -1,0 +1,21 @@
+Pathway	N	Up	Down	P.Up	P.Down
+Jak-STAT signaling pathway	95	0	5	1	0.000111861071981843
+Signaling pathways regulating pluripotency of s...	109	0	5	1	0.000213657599742076
+Epstein-Barr virus infection	173	0	6	1	0.000225615159888426
+Mineral absorption	31	0	3	1	0.000490074745846997
+HTLV-I infection	214	0	6	1	0.000700036887208419
+Kaposi's sarcoma-associated herpesvirus infecti...	151	0	5	1	0.000951420598940058
+Purine metabolism	152	0	4	1	0.00709067371960557
+TNF signaling pathway	84	0	3	1	0.00859799693389843
+MAPK signaling pathway	255	0	5	1	0.00900698784686353
+D-Glutamine and D-glutamate metabolism	4	1	0	0.00956493470535436	1
+Viral carcinogenesis	166	0	4	1	0.00960650963948443
+HIF-1 signaling pathway	89	0	3	1	0.0100673047042272
+Pyrimidine metabolism	89	0	3	1	0.0100673047042272
+Proteoglycans in cancer	171	0	4	1	0.0106293048409384
+Necroptosis	109	0	3	1	0.0173387479860294
+Neomycin, kanamycin and gentamicin biosynthesis	4	0	1	1	0.019895693611372
+Cytokine-cytokine receptor interaction	118	0	3	1	0.0213560442530196
+Hematopoietic cell lineage	46	0	2	1	0.022232205307295
+Breast cancer	123	0	3	1	0.0237901176653739
+MicroRNAs in cancer	125	0	3	1	0.0248042431660326

@@ -1,0 +1,2 @@
+Term	Ont	N	Up	Down	P.Up	P.Down
+cell communication	BP	3887	40	87	9.81819569450412e-06	3.6950461704029e-06
