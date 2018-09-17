@@ -5,7 +5,7 @@
 ## Experimental design
 1. Mouse: 
 	- Adult mice ~3 month of age
-	- Genotype: Wild type, Jun knockout (conditional), Ddit3 KO, and Jun/Ddit3 double knockout 
+	- Genotype: Wild type control (Control), Jun knockout (KO), Ddit3 KO, and Jun/Ddit3 double knockout 
 1. Procedure: 
 	- Left eye of the mouse undergone a controlled optic nerve crash - CONC
 	- Right eye of the mouse remain intact or did not touch - DNT
@@ -16,7 +16,7 @@
 
 ## Data Analysis workflow
 1. Raw transcript counts were converted into counts per million (CPM)
-2. Used standard *edgeR*'s quasi-likelihood pipeline to determine differentially expressed (DE) (q<0.05) genes comparing CONC and DNT for each genotype (WT, Ddit3, Jun, Ddit3/Jun)
+2. Used standard *edgeR*'s quasi-likelihood pipeline to determine differentially expressed (DE) (q<0.05) genes comparing CONC and DNT for each genotype (Control, Ddit3, Jun, Ddit3/Jun)
 3. Upload DE genes for each genotype onto Ingenuity Pathway Analysis (IPA) for comparison analysis in Canonical Pathway, Upstream Regulator, Disease and Function and Regulatory Effect
 	- to understand the molecular consequences of CONC
 	- to determine how Jun and Ddit3 knockout can modify the consequences of CONC
