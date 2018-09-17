@@ -25,7 +25,7 @@
 1. Quality control and generating DE genes using *edgeR* check:
 	- "glaucoma_ONC.Rmd" file
 	- "glaucoma_ONC.pdf" file
-	- "glaucoma_ONC.pdf" file
+	- "glaucoma_ONC.html" file
 1. The resulting of gene list and brief KEGG pathway overview  in each comparison from Rmd file, check: 
 	- "analysis" folder 
 1. RNA seq QC figures, check:
